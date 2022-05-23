@@ -1,0 +1,162 @@
+---
+title: "GIT / GitHub"
+author: ""
+format: 
+  revealjs:
+    self-contained: true
+    incremental: true
+    smaller: false
+    scrollable: true
+    theme: dark
+    reference-location: document
+    echo: true
+---
+
+# GIT 
+
+- Version control
+    - Code
+    - Files (non-plain text)
+    - Local
+        
+- Ventajas
+    - Confiable
+    - Eficiente
+        
+- Desventajas
+    - Cuesta un poco acustumbrarse
+
+# GitHub 
+
+- Servicio de "hosting" para GIT
+
+- Alternativas
+    - Gitlab
+    - Bitbucket
+    
+# Get started
+
+![Descargar GIT](imagenes_ppt_git/git_search.PNG)
+
+    
+# Get started
+
+![Descargar GIT](imagenes_ppt_git/git_front.PNG)
+
+# Create GitHub account 
+
+![Front GitHub](imagenes_ppt_git/git_github_log.PNG)
+
+## Clone DS4A repo
+
+![repo DS4A](imagenes_ppt_git/git_github_Projec_DS4A.PNG)
+
+This is our repo:
+
+**https://github.com/diego-sierra-r/Project_DS4A**
+
+## Clone DS4A repo
+
+![open Git Bash](imagenes_ppt_git/git_bash.PNG)
+
+## Clonar repo de DS4A
+
+![Git Bash](imagenes_ppt_git/git_bash_shell.PNG)
+
+
+## Clone DS4A repo
+
+![cd comand](imagenes_ppt_git/git_bash_shell_01_cd.PNG)
+
+## Clone DS4A repo
+
+![git clone](imagenes_ppt_git/git_bash_shell_02_cd_git_clone.PNG)
+
+## Clone DS4A repo
+
+![ls -la](imagenes_ppt_git/git_bash_shell_03_cd_git_clone.PNG)
+
+
+## Clonar repo de DS4A
+
+![](imagenes_ppt_git/git_bash_shell_04_cd_git_clone.PNG)
+
+
+## Clonar repo de DS4A
+
+![](imagenes_ppt_git/git_bash_shell_ls.PNG)
+
+
+##  Tell Git who you are
+
+![git config](imagenes_ppt_git/git_bash_shell_05_cd_git_config.PNG)
+
+## Usefull trick
+
+![git config](imagenes_ppt_git/git_bash_shell_06_cd_git_color.PNG)
+
+## Collaborating
+
+![git pull](imagenes_ppt_git/git_bash_shell_08_cd_git_pull.PNG)
+
+## Collaborating
+
+![Editing files](imagenes_ppt_git/gitignore01.PNG)
+
+## Collaborating
+
+![Editing files](imagenes_ppt_git/gitignore02.PNG)
+
+
+## Collaborating
+
+![git status](imagenes_ppt_git/git_bash_shell_07_cd_git_status.PNG)
+
+## Collaborating
+
+![git add .](imagenes_ppt_git/git_bash_shell_09_cd_git_add.PNG)
+
+## Collaborating
+
+![git commit -m](imagenes_ppt_git/git_bash_shell_10_cd_git_commit.PNG)
+
+## Collaborating
+
+![git push](imagenes_ppt_git/git_bash_shell_11_cd_git_push.PNG)
+
+## Collaborating
+
+![git push](imagenes_ppt_git/git_bash_shell_12_cd_git_push.PNG)
+
+## Collaborating
+
+![git push](imagenes_ppt_git/git_bash_shell_13_cd_git_push.PNG)
+
+## Collaborating
+
+![git status](imagenes_ppt_git/git_bash_shell_14_cd_git_status_after_commit.PNG)
+
+## History
+
+![git log](imagenes_ppt_git/git_bash_shell_15_cd_git_log.PNG)
+
+## History
+
+![git log](imagenes_ppt_git/git_bash_shell_15_cd_git_status_after_commit.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
